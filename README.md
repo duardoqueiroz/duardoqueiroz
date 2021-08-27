@@ -1,30 +1,22 @@
 <h1 align="center">
 Welcome!
 </h1>
-
 <h3>
 <p align="center">
-My name is Eduardo Queiroz and I'm a future Full stack developer🚀.<br/>
-  
-  
+My name is Eduardo Queiroz and I'm a future Full stack developer🚀.<br/>  
 </p></h3>
-
-
- 
-
 <h3>📊 Statistics:</h3>
 
  <div>
   <a href="https://github.com/duardoqueiroz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duardoqueiroz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardoqueiroz&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=duardoqueiroz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardoqueiroz&layout=compact&langs_count=7&theme=github_dark"/>
    <img src="https://github-profile-trophy.vercel.app/?username=duardoqueiroz&theme=darkhub&margin-w=9&hide_border=true">
-</div>
- 
+</div> 
+<div style="display: inline_block">
   
-   <h3>😎 Skills:</h3>
+  ##
   
-<div style="display: inline_block"><br>
   <h3>📚 Learning:</h3>
   <img align="center" alt="Dudu-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 <img align="center" alt="Dudu-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
