@@ -1,10 +1,9 @@
-<h1 align="center">
-Welcome!
-</h1>
-<h3>
-<p align="center">
-My name is Eduardo Queiroz and I'm a future Full stack developer🚀.<br/>  
-</p></h3>
+<h3 align="center">
+Welcome! My name is Eduardo Queiroz and I'm a future Full stack developer🚀.<br/> 
+</h3>
+
+##
+ 
 <h3>📊 Statistics:</h3>
 
  <div>
