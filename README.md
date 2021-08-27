@@ -22,8 +22,8 @@ Welcome! My name is Eduardo Queiroz and I'm a future Full stack developer🚀.<b
 <img align="center" alt="Dudu-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> 
 <img align="center" alt="Dudu-Javascrpt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
  <img align="center" alt="Dudu-Mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"> 
- <img align="center" alt="Dudu-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
- <img align="center" alt="Dudu-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+ <img align="center" alt="Dudu-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+ <img align="center" alt="Dudu-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
  
    <img align="right" alt="Rafa-yoda" heigh= "160" width="170" src="https://c.tenor.com/KOMN72qhJ-sAAAAC/haikyuu-hinata.gif">
 </div>
