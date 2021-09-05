@@ -1,5 +1,5 @@
 <h3 align="center">
-Welcome! My name is Eduardo Queiroz and I'm a future Full stack developer🚀.<br/> 
+Welcome! I'm Eduardo Queiroz and I'm a future Full stack developer🚀.<br/> 
 </h3>
 
 ##
