@@ -9,7 +9,7 @@ Welcome! I'm Eduardo Queiroz and I'm a future Full stack developer🚀.<br/>
  <div>
   <a href="https://github.com/duardoqueiroz">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=duardoqueiroz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardoqueiroz&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardoqueiroz&layout=compact&langs_count=7&theme=github_dark"/>
    <img src="https://github-profile-trophy.vercel.app/?username=duardoqueiroz&theme=darkhub&margin-w=9&hide_border=true">
 </div> 
 <div style="display: inline_block">
