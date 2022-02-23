@@ -37,9 +37,7 @@
  <img align="center" alt="Dudu-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Dudu-Mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
  <img align="center" alt="Dudu-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
- <img align="center" alt="Dudu-Golang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
- <img align="center" alt="Dudu-Golang" height="40" width="50" src="https://code.iconify.design/2/2.1.2/iconify.min.js">
- 
+ <img align="center" alt="Dudu-Golang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"> 
  </div>
  
   ##
