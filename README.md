@@ -41,7 +41,9 @@
  <img align="center" alt="Dudu-Dart" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
  <img align="center" alt="Dudu-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
  <img align="center" alt="Dudu-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- </div>
+ <img align="center" alt="Dudu-Tensorflow" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" alt="Dudu-Nestjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+</div>
  
   ##
   
