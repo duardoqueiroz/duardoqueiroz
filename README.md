@@ -23,6 +23,7 @@
  <img align="center" alt="Dudu-Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
  <img align="center" alt="Dudu-Adonis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
  <img align="center" alt="Dudu-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+ <img align="center" alt="Dudu-Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="Dudu-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="right" alt="Hinata" heigh= "160" width="170" src="https://c.tenor.com/KOMN72qhJ-sAAAAC/haikyuu-hinata.gif">
 
